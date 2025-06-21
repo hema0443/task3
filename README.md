@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-** In task3 I have written verilog code and test bench to design a 4-STAGE PIPELINED PROCESSOR with basic instructions like add,sub,and,load and I have used edaplayground for writing code and execution of simulation**
+** In task3 I have written verilog code and test bench to design a 4-STAGE PIPELINED PROCESSOR with basic instructions like add,sub,and,load and I have used edaplayground for writing code and for the simulation of code and In edaplayground I have used simulator as Icarus verilog 12.0 and I have choosed run option as open EPWave after run for the simulation.**
 
 *simulation*:
 
